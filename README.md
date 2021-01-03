@@ -55,5 +55,5 @@ Pluto.run()
 
 
 ## Contribution Guidelines
-- Make appropriately sized changes: Neither too large nor too small.
-- Appropriately format the contents
+
+
